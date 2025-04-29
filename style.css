@@ -160,7 +160,7 @@ nav ul li a:hover::after {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/background-1.png') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('image/background-1.png') no-repeat center center/cover;
     display: flex;
     align-items: center;
     text-align: center;
