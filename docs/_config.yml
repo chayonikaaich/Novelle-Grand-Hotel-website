@@ -1,0 +1,19 @@
+name: Novelle Grand Hotel
+title: Novelle Grand Hotel Website
+description: A luxury hotel website showcasing rooms and amenities
+baseurl: "/Novelle-Grand-Hotel-website"
+url: "https://chayonikaaich.github.io"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor 
